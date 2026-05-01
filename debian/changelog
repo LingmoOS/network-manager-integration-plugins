@@ -1,3 +1,9 @@
+network-manager-integration-plugins (1.0.0.lingmo.1) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 01 May 2026 21:14:00 +0800
+
 network-manager-integration-plugins (0.0.5-0deepin) unstable; urgency=medium
 
   * Support libreswan

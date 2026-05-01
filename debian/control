@@ -1,10 +1,10 @@
 Source: network-manager-integration-plugins
 Section: metapackages
 Priority: extra
-Maintainer: Deepin Developer <deepin-dev@deepin.org>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends: debhelper (>=8.0.0)
-Standards-Version: 3.9.3
-Homepage: http://www.deepin.org
+Standards-Version: 4.5.0
+Homepage: https://github.com/LingmoOS/network-manager-integration-plugins
 
 Package: network-manager-integration-plugins
 Architecture: all
